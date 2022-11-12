@@ -111,7 +111,8 @@ button img {
     .card {
         grid-template-columns: 1fr;
         grid-template-rows: 45% 55%;
-        margin: 2rem;
+        margin: 0.5rem;
+        max-width: 350px;
     }
 
     .card-img img {
